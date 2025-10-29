@@ -1,0 +1,16 @@
+nav {
+  width: 100%;
+  color: white;
+}
+.nav-hover-dark:hover {
+  background-color: #774d0d; /* Color de bg-dark */
+  color: rgb(
+    255,
+    255,
+    255
+  ) !important; /* Asegura que el texto se vuelva blanco */
+}
+.title-hover:hover {
+  text-shadow: 8px 8px 8px rgb(196, 86, 13);
+  transform: scale3d(1.15, 1.05, 1);
+}
